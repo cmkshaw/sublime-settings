@@ -1,3 +1,5 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme"
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	 "tab_size": 4,
+    "translate_tabs_to_spaces": false
 }
